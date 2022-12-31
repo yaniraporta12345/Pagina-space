@@ -2,9 +2,11 @@
 
 # TAREA 3, 4 y 5
 ## Integrantes
-- Luis alberto coaricona humpiri
-- Jhon Brichman Bellido Vargas
-- Araceli ponce sanga
+• Edilt Luz Toribio Flores
+Jhym Stony Hualla Muñoz
+• Katherine Cristina Reyes Vega • Lilian Pashanace Pinedo
+• Pedro Gonzales Castro
+• Yanira Porta Perez
 
 ![PAGINA PRINCIPAL](/./src/assets/captura.png)
 
